@@ -15,10 +15,8 @@
 * **Invoke • Run task with python**, talk given on Sat, May 09 at DjangoCong, Clermont-Ferrand, France.
 * **Monitoring your Django app with Sentry**, talk given on Sat, May 09 at DjangoCong, Clermont-Ferrand, France.
 * **What would my python look like?**, talk given on Sat, Jun 22 at Pytong, Toulon, France.
-* **Towards programming languages**, talk given on Wed, Apr 20 at Apéroweb Toulouse, Toulouse, France.
 * **Towards programming languages**, talk given on Fri, May 27 at SudWeb, Nîmes, France.
-
-
+* **Towards programming languages**, talk given on Wed, Apr 20 at Apéroweb Toulouse, Toulouse, France.
 
 ## Get in Touch
 
