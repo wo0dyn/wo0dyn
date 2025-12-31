@@ -20,9 +20,12 @@
 ## Get in Touch
 
 🔖 You can follow me on:
-  [Bluesky](https://wo0dyn.bsky.social),
+  [Bluesky](https://bsky.app/profile/wo0dyn.bsky.social),
   [CodePen](https://codepen.io/wo0dyn),
-  [Instagram](https://www.instagram.com/wo0dyn/),
-  [LinkedIn](https://www.linkedin.com/in/wo0dyn/),
-  [X](https://x.com/wo0dyn) or
+  [GitHub](https://github.com/wo0dyn),
+  [Google](https://g.dev/wo0dyn),
+  [Instagram](https://instagram.com/wo0dyn),
+  [LinkedIn](https://linkedin.com/in/wo0dyn),
+  [Mastodon](https://mamot.fr/@wo0dyn),
+  [SoundCloud](https://soundcloud.com/wo0dyn) and
   [YouTube](https://www.youtube.com/@wo0dyn).
