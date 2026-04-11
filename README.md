@@ -2,13 +2,15 @@
 
 ## About Me
 
-👨‍💻 **Senior Software Engineer** Python (Django, FastAPI), UX/UI<br>
-🧠 Former Student in **Cognitive Sciences**<br>
-🎸 **Guitarist** Jazz/Rock/Fingerstyle<br>
-👨‍👧‍👦 **Father** of 2<br>
-📍 **Work remotely** from 🇫🇷 Brive-la-Gaillarde area
+* 👨‍💻 **Senior Software Engineer** Python (Django, FastAPI), UX/UI
+* 🧠 Former Student in **Cognitive Sciences** (Master's Degree)
+* 🎸 **Guitarist** Fingerstyle/Jazz/Rock
+* 👨‍👧‍👦 **Father** of 2[^kids]
+* 📍 **Work remotely** from Brive-la-Gaillarde area, France 🇫🇷
 
 ## Talks
+
+I have had the opportunity to give talks at a few conferences, mainly about Python, Django and general software development.
 
 * **Keep the git history of your Django project clean**, talk given on Sat, Jun 09 at DjangoCon(g) France 2018, Lille, France.
 * **Forms & Jinja Macros**, talk given on Sat, Sep 23 at PyCon FR 2017, Toulouse, France.
@@ -29,3 +31,5 @@
   [Mastodon](https://mamot.fr/@wo0dyn),
   [SoundCloud](https://soundcloud.com/wo0dyn) and
   [YouTube](https://www.youtube.com/@wo0dyn).
+
+[^kids]: They are awesome! 🥰
