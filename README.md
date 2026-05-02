@@ -3,12 +3,17 @@
 ## About Me
 
 * 👨‍💻 **Senior Software Engineer** Python (Django, FastAPI), UX/UI
-* 🧠 Former Student in **Cognitive Sciences** (Master's Degree)
-* 🎸 **Guitarist** Fingerstyle/Jazz/Rock
-* 👨‍👧‍👦 **Father** of 2[^kids]
+* 🧠 Former Student in **Cognitive Sciences** (Master's Degree)
+* 🎸 **Guitarist** Fingerstyle/Jazz/Rock
+* 👨‍👧‍👦 **Father** of 2[^kids]
 * 📍 **Work remotely** from Brive-la-Gaillarde area, France 🇫🇷
 
 ## Talks
+
+<picture>
+  <img src=assets/images/wo0dyn-at-djangocong-2018.jpg align=right width=240
+       alt="wo0dyn at Djangocong 2018">
+</picture>
 
 I have had the opportunity to give talks at a few conferences, mainly about Python, Django and general software development.
 
