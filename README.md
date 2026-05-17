@@ -2,6 +2,7 @@
 
 ## About Me
 
+* 🪪 My name is **Nicolas Dubois**, aka wo0dyn
 * 👨‍💻 **Senior Software Engineer** Python (Django, FastAPI), UX/UI
 * 🧠 Former Student in **Cognitive Sciences** (Master's Degree)
 * 🎸 **Guitarist** Fingerstyle/Jazz/Rock
@@ -14,6 +15,7 @@
   <img src=assets/images/wo0dyn-at-djangocong-2018.jpg align=right width=240
        alt="wo0dyn at Djangocong 2018">
 </picture>
+
 
 I have had the opportunity to give talks at a few conferences, mainly about Python, Django and general software development.
 
@@ -33,7 +35,6 @@ I have had the opportunity to give talks at a few conferences, mainly about Pyth
   [Google](https://g.dev/wo0dyn),
   [Instagram](https://instagram.com/wo0dyn),
   [LinkedIn](https://linkedin.com/in/wo0dyn),
-  [Mastodon](https://mamot.fr/@wo0dyn),
   [SoundCloud](https://soundcloud.com/wo0dyn) and
   [YouTube](https://www.youtube.com/@wo0dyn).
 
